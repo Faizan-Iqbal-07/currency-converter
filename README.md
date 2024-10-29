@@ -20,7 +20,7 @@ A simple currency converter web application using JavaScript, HTML, and CSS to f
 
 ## Live Demo
 You can check the live version of the app here:  
-[Currency Converter Live](https://faizan-iqbal-07.github.io/currency-converter/)
+[Currency Converter Live](https://currency-converter-three-neon.vercel.app/)
 
 ## Installation
 Clone the repository:
